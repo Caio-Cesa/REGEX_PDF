@@ -69,4 +69,6 @@ No último benchmark realizado:
 > Os arquivos de entrada (`.pdf`) e saída (`.xlsx`) são automaticamente ignorados pelo controle de versão para garantir a privacidade de dados sensíveis.
 
 ---
-**Desenvolvido por [Caio Cesa](https://github.com/Caio-Cesa)** 🚀
+**Desenvolvido por Caio Cesar de Albuquerque**  
+📫 [caioalbuquerquedev@gmail.com](mailto:caioalbuquerquedev@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/caio-cesar-for-hire) | [GitHub](https://github.com/Caio-Cesa)
